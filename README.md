@@ -13,4 +13,4 @@ Repositório onde vao se treinar comandos básicos de Git.
 * git merge
 * git pull
 
-Entre outros
+Podem ter em anexo a  <a href ="https://git-scm.com/docs">documentação</a>
